@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **exciting open source projects** and I have 10+ years of experience in React, Angular, Node (Express/nest) & Python
 
-- 🌱 I’m currently learning **RUST, Golang, C++, C#**
+- 🌱 I’m planning to learn other technologies **RUST, Golang, C++, C#**
 
 - 👯 I’m looking to collaborate on **mission critical software projects**
 
-- 💬 Ask me about **MERN, MEAN, Node, Python, PHP, SQL/NoSQL**
+- 💬 Ask me about **MERN, MEAN, Node, TypeScript, JavaScript, Python, PHP, SQL/NoSQL**
 
-- 📫 How to reach me **mohsin.courses@gmail.com**
+- 📫 How to reach me **mohsin.codingexpert@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
