@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developwithmohsin&label=Profile%20views&color=0e75b6&style=flat" alt="developwithmohsin" /> </p>
 
-- 🔭 I’m currently working on **exciting open source projects** and I have 10+ years of experience in React, Angular, Node (Express/nest) & Python
+- 🔭 I’m currently working on **exciting open source projects** and I have 11+ years of experience in React, Angular, Node (Express/nest) & Python
 
 - 🌱 I’m planning to learn other technologies **RUST, Golang, C++, C#**
 
